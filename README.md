@@ -1,3 +1,3 @@
 # Welcome !!!
 
-Blog [Click there](https://github.com/codekeeperjava/Tech), then Click *View code* .
+Blog [click there](https://github.com/codekeeperjava/Tech), then click *View code* (If you are using a mobile phone).
